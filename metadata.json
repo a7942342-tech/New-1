@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Anime Lover",
+  "description": "The ultimate hub for Hindi dubbed anime series and movies, featuring an AI-powered assistant and community-driven content.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
